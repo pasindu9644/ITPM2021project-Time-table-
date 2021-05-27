@@ -1,0 +1,25 @@
+C:\Users\HP\source\repos\chanura project\Student Management System\bin\Release\Student Management System.exe.config
+C:\Users\HP\source\repos\chanura project\Student Management System\bin\Release\Student Management System.exe
+C:\Users\HP\source\repos\chanura project\Student Management System\bin\Release\Student Management System.pdb
+C:\Users\HP\source\repos\chanura project\Student Management System\bin\Release\MetroFramework.Design.dll
+C:\Users\HP\source\repos\chanura project\Student Management System\bin\Release\MetroFramework.dll
+C:\Users\HP\source\repos\chanura project\Student Management System\bin\Release\MetroFramework.Fonts.dll
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.addLocation.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.addTag.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.addStudentGroup.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.addLecturers.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.AddWorkingHoursDays.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.addSubjects.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.Login.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.MainMenu.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.manageLocations.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.manageTags.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.manageStudentGroups.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.manageLecturers.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.manageSubjects.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student_Management_System.Properties.Resources.resources
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student Management System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student Management System.csproj.CopyComplete
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student Management System.exe
+C:\Users\HP\source\repos\chanura project\Student Management System\obj\Release\Student Management System.pdb

@@ -1,0 +1,41 @@
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\bin\Release\Dispensary Management System.exe.config
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\bin\Release\Dispensary Management System.exe
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\bin\Release\Dispensary Management System.pdb
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\bin\Release\MetroFramework.Design.dll
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\bin\Release\MetroFramework.dll
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\bin\Release\MetroFramework.Fonts.dll
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.Diseases.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.Drugs.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.EditPw.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.Home.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.Login.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.PatientDetails.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.Patients.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.Properties.Resources.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary_Management_System.SearchByDate.resources
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary Management System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary Management System.csproj.CopyComplete
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary Management System.exe
+C:\Users\HP\source\repos\Dispensary Management System\Dispensary Management System\obj\Release\Dispensary Management System.pdb
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\bin\Release\Dispensary Management System.exe.config
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\bin\Release\Dispensary Management System.exe
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\bin\Release\Dispensary Management System.pdb
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\bin\Release\MetroFramework.Design.dll
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\bin\Release\MetroFramework.dll
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\bin\Release\MetroFramework.Fonts.dll
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary Management System.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.Diseases.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.Drugs.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.EditPw.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.Home.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.Login.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.PatientDetails.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.Patients.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.Properties.Resources.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary_Management_System.SearchByDate.resources
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary Management System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary Management System.csproj.CopyComplete
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary Management System.exe
+C:\Users\HP\source\repos\chanura project\Dispensary Management System\obj\Release\Dispensary Management System.pdb
